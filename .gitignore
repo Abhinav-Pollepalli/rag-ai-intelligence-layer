@@ -1,0 +1,38 @@
+#Environment
+.env
+.env.*
+*.env
+
+# Python build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+#Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+#OS
+.DS_Store
+Thumbs.db
+*.swp
+
+#App data
+chroma/
+gradio_cache/
+tmp/
+logs/
+*.log
+
+
+# Ignore these files
+rag_research_assistant.py
+VectorLens.png
+VectorLens2.png
+research_evaluation.docx
