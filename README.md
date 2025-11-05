@@ -23,6 +23,15 @@ A research-grade Retrieval-Augmented Generation (RAG) system that turns academic
 
 ---
 
+### Demo
+
+Demo recordings for each mode are available in the `demo/` directory:
+- **Research Mode:** Demonstrates deep reasoning and document citation.
+- **Founder Mode:** Shows balanced strategic reasoning and fast response.
+- **Turbo Mode:** Highlights speed-focused answers for quick tasks.
+
+---
+
 ## Features
 - **Hybrid PDF parsing:** text extraction + OCR fallback for scanned docs  
 - **Intent-aware reasoning:** routes to Q&A, notes summary, conversation summary, or general Q (no context)  
